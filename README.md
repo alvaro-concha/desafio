@@ -2,7 +2,7 @@
 
 En su primera parte, el notebook "Desafío de Python.ipynb" comprende la carga, procesamiento y análisis exploratorio de datos.
 
-Estos datos consisten en diversos atributos recolectados por una aseguradora, asociados a siniestros viales.
+Estos datos consisten de diversos atributos recolectados por una aseguradora, asociados a siniestros viales.
 
 Luego, se implementa, en el notebook, un modelo Gradient Boosting Classifier binaria para predecir la responsabilidad de un asegurado en un siniestro.
 
