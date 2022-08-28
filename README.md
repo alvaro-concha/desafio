@@ -1,8 +1,5 @@
 # Predictor de responsabilidad de siniestros viales
 
-Nombre: Alvaro Concha
-
----
 En su primera parte, el notebook "Desafío de Python.ipynb" comprende la carga, procesamiento y análisis exploratorio de datos.
 
 Estos datos consisten en diversos atributos recolectados por una aseguradora, asociados a siniestros viales.
