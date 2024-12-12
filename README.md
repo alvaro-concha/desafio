@@ -3,7 +3,7 @@
 By employing n-grams, the Naive Bayes classifier captures sequences of words, allowing for a more nuanced understanding of language patterns. This approach enhances the model's ability to explain and predict linguistic structures effectively.
 
 <div align="center">
-    <img src="confusion-matrix.png" alt="Confusion Matrix" width="30%">
+    <img src="confusion-matrix.png" alt="Confusion Matrix" width="30%" style="background-color: white;">
 </div>
 
 Firstly, the notebook "Desafío de Python.ipynb" encompasses data loading, processing, and exploratory analysis. The data consist of various attributes collected by an insurance company, associated with traffic accidents.
