@@ -13,3 +13,7 @@ Next, the notebook implements several binary classification models to predict an
 The chosen model to address the task is the NaiveBayesClassifier from NLTK, trained with n-grams of maximum size 5 from the accident descriptions.
 
 Finally, different steps are proposed before deploying this model to production and making it available for client use.
+
+<div align="center">
+    <img src="explaining-language-models.png" alt="Explaining a Language a Model" width="30%" style="background-color: white;">
+</div>
