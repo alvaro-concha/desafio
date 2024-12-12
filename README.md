@@ -3,7 +3,7 @@
 By employing n-grams, the Naive Bayes classifier captures sequences of words, allowing for a more nuanced understanding of language patterns. This approach enhances the model's ability to explain and predict linguistic structures effectively.
 
 <div align="center">
-    <img src="confusion-matrix.png" alt="Confusion Matrix" width="30%" style="background-color: white;">
+    <img src="confusion-matrix.png" alt="Confusion Matrix" width="30%">
 </div>
 
 Firstly, the notebook "Desafío de Python.ipynb" encompasses data loading, processing, and exploratory analysis. The data consist of various attributes collected by an insurance company, associated with traffic accidents.
@@ -15,5 +15,5 @@ The chosen model to address the task is the NaiveBayesClassifier from NLTK, trai
 Finally, different steps are proposed before deploying this model to production and making it available for client use.
 
 <div align="center">
-    <img src="explaining-language-models.png" alt="Explaining a Language a Model" width="30%" style="background-color: white;">
+    <img src="explaining-language-models.png" alt="Explaining a Language a Model" width="80%">
 </div>
